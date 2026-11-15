@@ -2,5 +2,5 @@
 
 Ovo je moj prvi projekt na kojem učim Git.
 
-Ovaj red sam dodao na grani novi-uvod.
+Ovaj red je promijenjen na grani druga-verzija.
 
